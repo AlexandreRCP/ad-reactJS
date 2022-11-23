@@ -1,3 +1,19 @@
+- 🔭 I’m currently working on front-end
+- 🌱 I’m currently learning NodeJS; ReactJS; HTML; and CSS.
+- 📫 How to reach me Linkedin: https://www.linkedin.com/in/alexandre-paiva/ and email: alex.rcp@gmail.com 
+- 😄 Pronouns: he/his
+<br />
+<div align="center">
+  <img height="350em" src="https://github.com/AlexandreRCP/ad-reactJS/blob/main/src/assets/React%20App%20-%20Video.gif"/>
+  <br />
+  <br />
+  <img align="center" alt="Alex-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Alex-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Alex-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Alex-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Alex-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
